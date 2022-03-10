@@ -1,7 +1,8 @@
 #include <stdio.h>
 /*
- * this file contains a main function
- * that prints a text string and a new line
+ *main - this file contains a main function
+ *that prints a text string and a new line
+ *returns:0 after succesful run
  */
 int main(void)
 {
