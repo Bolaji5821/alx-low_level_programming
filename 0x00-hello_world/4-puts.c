@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - this file contains a main function that prints a text string and a new line
+ * main - this file contains a main function that prints a text and a new line
  * Return: 0 after succesful run
  */
 int main(void)
