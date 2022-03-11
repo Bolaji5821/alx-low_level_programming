@@ -3,8 +3,6 @@
 #include <stdio.h>
 /**
 * main- checks for positive, negative or zero
-*
-* return: Always 0 after success
 */
 int main(void)
 {
