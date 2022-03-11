@@ -4,7 +4,7 @@
 
 /**
 *main - checks for positive, negative or zero
-*
+*wo e don run na
 *return: 0 (success)
 */
 int main(void)
