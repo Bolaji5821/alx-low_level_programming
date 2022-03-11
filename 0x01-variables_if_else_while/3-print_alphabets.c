@@ -17,5 +17,5 @@ for (ch = 'A'; ch <= 'Z'; ch++)
 {
 printf("%c", ch);
 }
-return (0)
+return (0);
 }
