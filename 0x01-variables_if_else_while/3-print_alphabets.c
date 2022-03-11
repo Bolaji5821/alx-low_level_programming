@@ -9,13 +9,13 @@
 int main(void)
 {
 	char ch;
-	for (ch = 'a'; ch <= 'z'; ch++)
+ifor (ch = 'a'; ch <= 'z'; ch++)
 {
-	printf("%c ", ch);
+	putchar("%c ", ch);
 }
 for (ch = 'A'; ch <= 'Z'; ch++)
 {
-printf("%c", ch);
+	putchar("%c", ch);
 }
 return (0);
 }
