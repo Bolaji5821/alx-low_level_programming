@@ -9,7 +9,7 @@
 int main(void)
 {
 	char ch;
-ifor (ch = 'a'; ch <= 'z'; ch++)
+for (ch = 'a'; ch <= 'z'; ch++)
 {
 	putchar("%c ", ch);
 }
