@@ -1,0 +1,1 @@
+gcc -wall -werror -wextra -pedantic -std=gnu968
