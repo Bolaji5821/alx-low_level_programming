@@ -6,7 +6,7 @@
  * or negative
  * Return: 0
  */
-int _abs(int n)
+int abs(int n)
 {
 	if (n >= 0)
 	{
