@@ -2,7 +2,7 @@
 /**
  * main - prints _putchar
  *
- * Returns: 0 after successful execution 
+ * Return: 0 after compilation is successful 
  */
 int main(void)
 {
@@ -16,5 +16,4 @@ _putchar('a');
 _putchar('r');
 _putchar('\n');
 return (0);
-
 }
