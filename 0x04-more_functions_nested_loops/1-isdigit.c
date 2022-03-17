@@ -2,8 +2,9 @@
 /**
 * _isdigit - this function checks for digit 0 throudh 9
 *
-* returns 1 if c is a digit
-* otherwise 0
+* @c: is used as a placeholder for input
+*
+* Return: 1 if its a number (0 to 9), 0 in other case.
 */
 int _isdigit(int c)
 {
