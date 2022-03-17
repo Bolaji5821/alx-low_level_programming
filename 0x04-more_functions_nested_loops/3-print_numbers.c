@@ -1,12 +1,12 @@
 #include "main.h"
+
 /**
- * print_numbers - prints the number, from 0-9
- *
+ * print_numbers - prints numbers between 0 to 9.
  * Return: no return.
  */
 void print_numbers(void)
 {
-int ch;
+	int ch;
 
 	for (ch = 48; ch < 58; ch++)
 	{
