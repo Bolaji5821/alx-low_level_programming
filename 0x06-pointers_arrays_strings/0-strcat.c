@@ -1,26 +1,26 @@
 #include "main.h"
 /**
- * *_strcat - concatenates two strings.
- * concatenates two strings and overwriting the terminating null
- * byte at the end of strings.
- * @src: source.
+ * _strcat - concatenates two strings,
  * @dest: destination.
- *Return: the program returns (dest) after suceefull execution.
+ * @src: source.
+ * Return: the pointer to dest.
  */
 char *_strcat(char *dest, char *src)
 {
 	int count = 0, count2 = 0;
-	while(*(dest + count) != '\0')
+
+	while (*(dest + count) != '\0')
 	{
-	count++
+		count++;
 	}
+
 	while (count2 >= 0)
 	{
-	*(dest + count) = *(src + count2);
-	if(*(src + count2) == '\0')
-		break;
-	count++;
-	count2++;
+		*(dest + count) = *(src + count2);
+		if (*(src + count2) == '\0')
+			break;
+		count++;
+		count2++;
 	}
-return (dest);
+	return (dest);
 }
