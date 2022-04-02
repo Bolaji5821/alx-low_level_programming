@@ -1,1 +1,1 @@
-this directory contains my c programming recursion project
+This directory contains my ALX recursion project source codes
