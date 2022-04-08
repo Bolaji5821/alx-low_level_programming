@@ -45,4 +45,4 @@ char *string_nconcat(char *s1, char *s2, unsigned int n)
 	}
 	count_string[k] = '\0';
 	return (count_string);
-} 
+}
